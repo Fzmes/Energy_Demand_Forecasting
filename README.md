@@ -1,5 +1,3 @@
-##Energy Demand Forecasting 
-```markdown
 # Energy Demand Forecasting for Smart Grid Optimization
 
 ## 📌 Project Overview
